@@ -1,0 +1,10 @@
+C:\Users\shive\source\repos\TIK TAC TOE\TIK TAC TOE\bin\Debug\TIK TAC TOE.exe.config
+C:\Users\shive\source\repos\TIK TAC TOE\TIK TAC TOE\bin\Debug\TIK TAC TOE.exe
+C:\Users\shive\source\repos\TIK TAC TOE\TIK TAC TOE\bin\Debug\TIK TAC TOE.pdb
+C:\Users\shive\source\repos\TIK TAC TOE\TIK TAC TOE\obj\Debug\TIK_TAC_TOE.Properties.Resources.resources
+C:\Users\shive\source\repos\TIK TAC TOE\TIK TAC TOE\obj\Debug\TIK TAC TOE.csproj.GenerateResource.cache
+C:\Users\shive\source\repos\TIK TAC TOE\TIK TAC TOE\obj\Debug\TIK TAC TOE.csproj.CoreCompileInputs.cache
+C:\Users\shive\source\repos\TIK TAC TOE\TIK TAC TOE\obj\Debug\TIK TAC TOE.exe
+C:\Users\shive\source\repos\TIK TAC TOE\TIK TAC TOE\obj\Debug\TIK TAC TOE.pdb
+C:\Users\shive\source\repos\TIK TAC TOE\TIK TAC TOE\obj\Debug\TIK_TAC_TOE.Form1.resources
+C:\Users\shive\source\repos\TIK TAC TOE\TIK TAC TOE\obj\Debug\TIK TAC TOE.csprojAssemblyReference.cache
