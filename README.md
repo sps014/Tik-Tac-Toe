@@ -1,5 +1,5 @@
 # TIK TAC TOE
- Advanced Unbeatable AI Tic Tac Toe
+ Advanced Unbeatable AI , for Tik Tac Toe,
  Implemented in C# but you can esily port to any platform.
  BlackBoard , Clickable Tile Control also have been written.
  
